@@ -1,5 +1,7 @@
 @echo off
 
+rem Copyright 2013 0x776b7364
+
 setlocal enabledelayedexpansion
 set directives_filename=directives.ddf
 
